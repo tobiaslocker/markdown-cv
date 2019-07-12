@@ -25,10 +25,12 @@ Rua do Paraíso 226<br/>
 *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
 `2008-2009`
-**Master of Crafts in Electrical Craftsmanship**, *Chamber of Crafts Rhein Main*, Frankfurt, Germany.
+**Master of Crafts in Electrical Craftsmanship**<br/>
+*Chamber of Crafts Rhein Main*, Frankfurt, Germany.
 
 `2000-2004`
-**Journeyman in Electrical Craftsmanship**, *Chamber of Crafts Rhein Main*, Bad Homburg, Germany.
+**Journeyman in Electrical Craftsmanship**<br/>
+*Chamber of Crafts Rhein Main*, Bad Homburg, Germany.
 
 
 <!-- ### Footer
