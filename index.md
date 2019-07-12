@@ -6,14 +6,12 @@ title: Tobias Locker's CV
 Electrical Engineer, Software Developer and Software Architect.
 
 Rua do Paraíso 226<br/>
-2765-380 Estoril<br/>
-Livramento<br/>
-Portugal<br/>
+2765-380 Estoril, Portugal<br/>
 
 <a href="tobias@tobiaslocker.de">tobias@tobiaslocker.de</a> - +49 (0)162 259 6235
 
 <div id="webaddress">
-  <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> davewhipp</a> - 
+  <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i>tobiaslocker</a> - 
 </div>
 
 ## Currently
@@ -23,7 +21,7 @@ Portugal<br/>
 
 
 `2009-2014`
-**B. Eng Electrical Engineering and Information Technology**</br>
+**B. Eng Electrical Engineering and Information Technology**<br/>
 *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
 `2008-2009`
