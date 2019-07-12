@@ -11,6 +11,7 @@ Rua do Paraíso 226<br/>
 <a href="tobias@tobiaslocker.de">tobias@tobiaslocker.de</a> - +49 (0)162 259 6235
 
 <div id="webaddress">
+  <a href="tobias@tobiaslocker.de"><i class="far fa-envelope"></i> tobias@tobiaslocker.de</a>
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
 </div>
 
