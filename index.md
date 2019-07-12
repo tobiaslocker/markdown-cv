@@ -35,10 +35,10 @@ er
 **B. Eng Electrical Engineering and Information Technology**, *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
 `2008-2009`
-**Master of Electrical Craftsmanship (Handwerksmeister)**, *Chamber of Craftsmanship Rhein Main*, Frankfurt, Germany.
+**Master of Crafts in Electrical Craftsmanship**, *Chamber of Crafts Rhein Main*, Frankfurt, Germany.
 
 `2000-2004`
-**Completed vocational education and training in Electrical Craftsmanship**, *Chamber of Craftsmanship Rhein Main*, Bad Homburg, Germany.
+**Journeyman in Electrical Craftsmanship**, *Chamber of Crafts Rhein Main*, Bad Homburg, Germany.
 
 
 ## Awards
