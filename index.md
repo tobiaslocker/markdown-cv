@@ -5,10 +5,16 @@ title: Tobias Locker's CV
 # Tobias Locker
 Electrical Engineer, Software Developer and Software Architect.
 
-<div id="webaddress">
-<a href="tobias@tobiaslocker.de">tobias@tobiaslocker.de</a>
-</div>
+Rua do Paraíso 226<br/>
+2765-380 Estoril<br/>
+Livramento<br/>
+Portugal<br/>
 
+<a href="tobias@tobiaslocker.de">tobias@tobiaslocker.de</a> - +49 (0)162 259 6235
+
+<div id="webaddress">
+  <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> davewhipp</a> - 
+</div>
 
 ## Currently
 
@@ -17,7 +23,8 @@ Electrical Engineer, Software Developer and Software Architect.
 
 
 `2009-2014`
-**B. Eng Electrical Engineering and Information Technology**, *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
+**B. Eng Electrical Engineering and Information Technology**</br>
+*Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
 `2008-2009`
 **Master of Crafts in Electrical Craftsmanship**, *Chamber of Crafts Rhein Main*, Frankfurt, Germany.
