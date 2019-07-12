@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tobias Locker's CV
 ---
 # Tobias Locker
 Electrical Engineer, Software Developer and Software Architect.
@@ -23,23 +23,22 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+er
+
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2014`
+**B. Eng Electrical Engineering and Information Technology**, *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
-- Sizar
+`2008-2009`
+**Master of Electrical Craftsmanship (Handwerksmeister)**, *Chamber of Craftsmanship Rhein Main*, Frankfurt, Germany.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2000-2004`
+**Completed vocational education and training in Electrical Craftsmanship**, *Chamber of Craftsmanship Rhein Main*, Bad Homburg, Germany.
 
 
 ## Awards
