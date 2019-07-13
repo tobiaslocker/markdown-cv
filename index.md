@@ -12,7 +12,7 @@ Rua do Paraíso 226<br/>
 <div id="webaddress">
 
 
-<a href="tel:1-408-555-5555"><i class="fas fa-phone">1-408-555-5555</a>
+<a href="tel:1-408-555-5555"><i class="fas fa-phone"></i> 1-408-555-5555</a>
   <a href="mailto:tobias@tobiaslocker.de"><i class="far fa-envelope"></i> tobias@tobiaslocker.de</a>
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
 </div>
