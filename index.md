@@ -17,11 +17,6 @@ Rua do Paraíso 226<br/>
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
 </div>
 
-## About Me
-Hi, I am an Electrical Engineer and software enthusiast. I have more than five years of
-professional experience in software development.
-
-
 ## Education
 
 `2009-2014`
@@ -29,11 +24,11 @@ professional experience in software development.
 *Frankfurt University of Applied Sciences*, Frankfurt, Germany.
 
 `2008-2009`
-**Master of Crafts in Electrical Craftsmanship**<br/>
+**Master Craftsman for Electrical Engineering**<br/>
 *Chamber of Crafts Rhein Main*, Frankfurt, Germany.
 
 `2004`
-**Journeyman in Electrical Craftsmanship**<br/>
+**Journeyman for Electrical Engineering**<br/>
 *Chamber of Crafts Rhein Main*, Bad Homburg, Germany.
 
 ## Bachelor Thesis
