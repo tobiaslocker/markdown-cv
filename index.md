@@ -37,7 +37,7 @@ Rua do Paraíso 226<br/>
 ## Bachelor Thesis
 
 `2013-2014`
-**Optimization and adjustments of an E-Bike test bench for testing according to DIN EN 15194.**
+**Optimization and adjustments of an E-Bike test bench for testing according to DIN EN 15194.**<br/>
 *VDE Testing Facility*, Offenbach am Main, Germany.
 
 ## Experience
