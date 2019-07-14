@@ -17,7 +17,9 @@ Rua do Paraíso 226<br/>
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
 </div>
 
-## Currently
+## About Me
+Hi, I am an Electrical Engineer and software enthusiast. I have more than five years of
+professional experience in software development.
 
 
 ## Education
