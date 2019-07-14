@@ -42,7 +42,7 @@ Rua do Paraíso 226<br/>
 
 ## Experience
 
-`2016-2017`
+`2017-2019`
 **Software Engineer / Software Architect**<br/>
 *Device Insight GmbH*, *Product Development*, Munich, Germany.
 
