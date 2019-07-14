@@ -51,23 +51,23 @@ Rua do Paraíso 226<br/>
 *Infineon Technologies AG for Alten Engineering GmbH*, Munich, Germany.
 
 `2015-2016`
-**Engineering Consultant**
+**Engineering Consultant**<br/>
 *Infineon Technologies AG for Alten Engineering GmbH*, Munich, Germany.
 
 `2014-2015`
-**Engineering Consultant**
+**Engineering Consultant**<br/>
 *BMW Group AG for Alten Engineering GmbH*, Munich, Germany.
 
 `2011-2013`
-**Working Student**
+**Working Student**<br/>
 *VDE Testing Facility*, Offenbach am Main, Germany.
 
 `2004-2008`
-**Electrician**
+**Electrician**<br/>
 *MS Elektrotechnik*, Friedrichsdorf, Germany.
 
 `2000-2004`
-**Vocational Training as Electrician**
+**Vocational Training as Electrician**<br/>
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
 <!-- ### Footer
