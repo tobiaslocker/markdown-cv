@@ -76,6 +76,20 @@ of life, tackling complexity of technology.
 ## Technology Stack
 
 <table id="skilltable">
+<tbody>
+<tr>
+<td>C++</td>
+<td>ii</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>iii</td>
+</tr>
+</tbody>
+</table>
+
+
+<table id="skilltable">
   <th>
     <tr>C++</td>
     <td>
