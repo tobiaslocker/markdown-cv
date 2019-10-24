@@ -74,8 +74,8 @@ of life, tackling complexity of technology.
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
 ## Technology Stack
-**C++** <i class="fas fa-star"></i><br/>
-**Python** 
+**C++** <i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"></i><br/>
+**Python** <i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"><i class="fas fa-star"><br/>
 **Go** *2 years professional experience*<br/>
 
 
