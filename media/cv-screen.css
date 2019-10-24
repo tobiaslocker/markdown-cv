@@ -180,6 +180,7 @@ a:hover {
 	left: 25%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+    page-break-inside: avoid;
 }
 
 #skilltable a {
