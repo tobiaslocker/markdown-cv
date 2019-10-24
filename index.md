@@ -80,7 +80,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>C++</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
@@ -92,7 +92,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>Python</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
@@ -104,7 +104,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>Bash</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
@@ -116,7 +116,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>Go</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
@@ -128,7 +128,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>Rust</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
@@ -140,7 +140,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>UNIX/Linux</td>
 <td>
-<font color="#aaa">
+<font color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
