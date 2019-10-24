@@ -95,6 +95,7 @@ of life, tackling complexity of technology.
 <i class="fas fa-star-half-alt"></i>
 <i class="far fa-star"></i><br/>
 
+<div>
 <table>
   <tr>
     <th>Firstname</th>
@@ -112,6 +113,7 @@ of life, tackling complexity of technology.
     <td>94</td>
   </tr>
 </table>
+</div>
 
 
 
