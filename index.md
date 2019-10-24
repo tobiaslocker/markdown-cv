@@ -80,7 +80,7 @@ of life, tackling complexity of technology.
 <tr>
 <td>C++</td>
 <td>
-<font color="#bc412b">
+<font size="2" color="#bc412b">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
