@@ -10,6 +10,14 @@ Electrical Engineer, Software Developer and Software Architect.
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
 </div>
 
+
+## About me
+
+Hi, My Name is Tobias and I write Software in C++, Python, Go and Rust.
+I am 40 years old and I currently reside in Portugal, enjoying simplicity
+of life, tackling complexity of technology.
+
+
 ## Education
 
 `2009-2014`
