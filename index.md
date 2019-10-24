@@ -17,8 +17,8 @@ Electrical Engineer, Software Developer and Software Architect.
 
 ## About me
 
-*Hi*, my name is Tobias and I write software in 
-`C++`, Python, Go and Rust.
+*Hello*, my name is Tobias and I write software in 
+C++, Python, Go and Rust.
 I am 40 years old and currently reside in Portugal, enjoying simplicity
 of life, tackling complexity of technology.
 
@@ -74,28 +74,9 @@ of life, tackling complexity of technology.
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
 ## Technology Stack
-
-![Logo](/images/bash-144.png)
-![Logo](/images/isocpp-144.png)
-![Logo](/images/python-144.png)
-![Logo](/images/rust-144.png)
-![Logo](/images/tux-h-144.png)
-![Logo](/images/docker-144.png)
-![Logo](/images/cmake-144.png)
-![Logo](/images/git-144.png)
-![Logo](/images/gitlab-144.png)
-![Logo](/images/gopher-144.png)
-
-
-<div>
-<img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/bash-144.png">
-<img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/isocpp-144.png">
-<img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/python-144.png">
-</div>
-
-
-
-
+**C++** *5 years professional experience*
+**Python** *5 years professional experience*
+**Go** *2 years professional experience*
 
 <!-- ### Footer
 
