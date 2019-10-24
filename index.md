@@ -17,10 +17,10 @@ Electrical Engineer, Software Developer and Software Architect.
 
 ## About me
 
-> *Hello*, my name is Tobias and I write software in 
-> C++, Python, Go and Rust.
-> I am 40 years old and currently reside in Portugal, enjoying simplicity
-> of life, tackling complexity of technology.
+*Hello*, my name is Tobias and I write software in 
+C++, Python, Go and Rust.
+I am 40 years old and currently reside in Portugal, enjoying simplicity
+of life, tackling complexity of technology.
 
 
 ## Education
