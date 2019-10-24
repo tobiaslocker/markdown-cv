@@ -75,7 +75,7 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
-![GitHub Logo](/images/tux.png)
+![GitHub Logo](/images/tux-h-200.png)
 Format: ![Alt Text](url)
 
 
