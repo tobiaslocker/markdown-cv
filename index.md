@@ -76,8 +76,8 @@ of life, tackling complexity of technology.
 ## Technology Stack
 
 <table id="skilltable">
-  <tr>
-    <td>C++</td>
+  <th>
+    <tr>C++</td>
     <td>
       <i class="fas fa-star"></i>
       <i class="fas fa-star"></i>
@@ -85,7 +85,7 @@ of life, tackling complexity of technology.
       <i class="fas fa-star"></i>
       <i class="fas fa-star"></i>
     </td>
-  </tr>
+  </th>
   <tr>
     <td>Python</td>
     <td>
