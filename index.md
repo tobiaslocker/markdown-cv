@@ -73,6 +73,12 @@ of life, tackling complexity of technology.
 **Vocational Training as Electrician**<br/>
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
+## Technology Stack
+
+![GitHub Logo](/images/tux.png)
+Format: ![Alt Text](url)
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
