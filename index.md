@@ -75,8 +75,15 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
-![C++ Logo](/images/isocpp-h-150.png)
-![Linux Logo](/images/tux-h-150.png)
+
+
+![Logo](/images/bash-144.png)
+![Logo](/images/docker-144.png)
+![Logo](/images/isocpp-144.png)
+![Logo](/images/python-144.png)
+![Logo](/images/rust-144.png)
+![Logo](/images/tux-h-144.png)
+
 
 
 <!-- ### Footer
