@@ -89,12 +89,16 @@ of life, tackling complexity of technology.
 </tr>
 <tr>
 <td>Python</td>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
 <td>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+</td>
+</tr>
+<td>
+<tr>
 <td>Go</td>
 <td>
 <i class="fas fa-star"></i>
