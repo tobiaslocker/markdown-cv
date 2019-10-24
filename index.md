@@ -95,7 +95,7 @@ of life, tackling complexity of technology.
 <i class="fas fa-star-half-alt"></i>
 <i class="far fa-star"></i><br/>
 
-<div>
+<div id="skilltable">
 <table>
   <tr>
     <th>Firstname</th>
