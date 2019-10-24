@@ -75,7 +75,9 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
-![GitHub Logo](/images/tux-h-200.png)
+![Linux Logo](/images/isocpp-150.png)
+
+![Linux Logo](/images/tux-h-150.png)
 
 
 <!-- ### Footer
