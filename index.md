@@ -98,12 +98,32 @@ of life, tackling complexity of technology.
 </td>
 </tr>
 <tr>
+<td>Bash</td>
+<td>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star-half-alt"></i>
+</td>
+</tr>
+<tr>
 <td>Go</td>
 <td>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star-half-alt"></i>
+<i class="far fa-star"></i><br/>
+</td>
+</tr>
+<tr>
+<td>Rust</td>
+<td>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star-half-alt"></i>
+<i class="far fa-star"></i><br/>
 <i class="far fa-star"></i><br/>
 </td>
 </tr>
