@@ -182,7 +182,7 @@ a:hover {
 	font-size: 100%;
     page-break-inside: avoid;
     border-collapse: separate;
-    border-spacing: 25px 0;
+    border-spacing: 15px 0;
 }
 
 #skilltable a {
