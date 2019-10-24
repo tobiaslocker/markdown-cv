@@ -75,7 +75,7 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
-<table style="width:25%" id="skilltable">
+<table id="skilltable">
 <tbody>
 <tr>
 <td>C++</td>
