@@ -74,15 +74,13 @@ of life, tackling complexity of technology.
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
 ## Technology Stack
-**C++** *> 5y professional Experience*
-
 
 ![Logo](/images/bash-144.png)
-![Logo](/images/docker-144.png)
 ![Logo](/images/isocpp-144.png)
 ![Logo](/images/python-144.png)
 ![Logo](/images/rust-144.png)
 ![Logo](/images/tux-h-144.png)
+![Logo](/images/docker-144.png)
 
 
 
