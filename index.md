@@ -173,6 +173,30 @@ of life, tackling complexity of technology.
 </font>
 </td>
 </tr>
+<tr>
+<td>CMake</td>
+<td>
+<font color="#bc412b">
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="far fa-star"></i>
+</font>
+</td>
+</tr>
+<tr>
+<td>GitLab CI</td>
+<td>
+<font color="#bc412b">
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="far fa-star"></i>
+<i class="far fa-star"></i>
+</font>
+</td>
+</tr>
 </tbody>
 </table>
 
