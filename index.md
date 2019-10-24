@@ -9,7 +9,6 @@ Electrical Engineer, Software Developer and Software Architect.
   <a href="mailto:tobias@tobiaslocker.de">
     <i class="far fa-envelope"></i> tobias@tobiaslocker.de
   </a>
-  </br>
   <a href="https://github.com/tobiaslocker">
     <i class="fab fa-github"></i> tobiaslocker
   </a>
