@@ -5,9 +5,6 @@ title: Tobias Locker's CV
 # Tobias Locker
 Electrical Engineer, Software Developer and Software Architect.
 
-Rua do Paraíso 226<br/>
-2765-380 Estoril, Portugal
-
 <div id="webaddress">
   <a href="mailto:tobias@tobiaslocker.de"><i class="far fa-envelope"></i> tobias@tobiaslocker.de</a>
   <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
