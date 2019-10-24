@@ -6,15 +6,20 @@ title: Tobias Locker's CV
 Electrical Engineer, Software Developer and Software Architect.
 
 <div id="webaddress">
-  <a href="mailto:tobias@tobiaslocker.de"><i class="far fa-envelope"></i> tobias@tobiaslocker.de</a>
-  <a href="https://github.com/tobiaslocker"><i class="fab fa-github"></i> tobiaslocker</a>
+  <a href="mailto:tobias@tobiaslocker.de">
+    <i class="far fa-envelope"></i> tobias@tobiaslocker.de
+  </a>
+  </br>
+  <a href="https://github.com/tobiaslocker">
+    <i class="fab fa-github"></i> tobiaslocker
+  </a>
 </div>
 
 
 ## About me
 
-Hi, My Name is Tobias and I write Software in C++, Python, Go and Rust.
-I am 40 years old and I currently reside in Portugal, enjoying simplicity
+Hi, my name is Tobias and I write software in C++, Python, Go and Rust.
+I am 40 years old and currently reside in Portugal, enjoying simplicity
 of life, tackling complexity of technology.
 
 
