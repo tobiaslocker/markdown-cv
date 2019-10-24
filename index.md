@@ -87,8 +87,11 @@ of life, tackling complexity of technology.
 ![Logo](/images/gopher-144.png)
 
 
+<div>
 <img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/bash-144.png">
-
+<img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/isocpp-144.png">
+<img align="left" src="https://raw.githubusercontent.com/tobiaslocker/markdown-cv/gh-pages/images/python-144.png">
+</div>
 
 
 
