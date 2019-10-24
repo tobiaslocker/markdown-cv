@@ -74,21 +74,21 @@ of life, tackling complexity of technology.
 *Elektro Team Krause GmbH*, Bad Homburg, Germany.
 
 ## Technology Stack
-**C++**
+**C++\t\t**
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <br/>
-**Python**
+**Python\t**
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <br/>
-**Go**
+**Go\t\t**
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
