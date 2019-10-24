@@ -92,41 +92,49 @@ of life, tackling complexity of technology.
 <tr>
 <td>Python</td>
 <td>
+<font color="#aaa">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
+</font>
 </td>
 </tr>
 <tr>
 <td>Bash</td>
 <td>
+<font color="#aaa">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star-half-alt"></i>
+</font>
 </td>
 </tr>
 <tr>
 <td>Go</td>
 <td>
+<font color="#aaa">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star-half-alt"></i>
 <i class="far fa-star"></i>
+</font>
 </td>
 </tr>
 <tr>
 <td>Rust</td>
 <td>
+<font color="#aaa">
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star-half-alt"></i>
 <i class="far fa-star"></i>
 <i class="far fa-star"></i>
+</font>
 </td>
 </tr>
 </tbody>
