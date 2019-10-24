@@ -94,7 +94,8 @@ of life, tackling complexity of technology.
 <i class="fas fa-star"></i>
 <i class="fas fa-star-half-alt"></i>
 <i class="far fa-star"></i><br/>
-<table style="width:100%">
+
+<table>
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
