@@ -99,13 +99,52 @@ of life, tackling complexity of technology.
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
 <i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
+<i class="fas fa-star-half-alt"></i>
+<i class="far fa-star"></i><br/>
 <td>
 </td>
 </tr>
 </tbody>
 </table>
+
+
+<table id="skilltable">
+  <th>
+    <tr>C++</td>
+    <td>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+    </td>
+  </th>
+  <tr>
+    <td>Python</td>
+    <td>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+    </td>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star-half-alt"></i>
+      <i class="far fa-star"></i><br/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!-- ### Footer
 
