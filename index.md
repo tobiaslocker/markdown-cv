@@ -138,7 +138,7 @@ of life, tackling complexity of technology.
 </td>
 </tr>
 <tr>
-<td>UNIX/Linux</td>
+<td>UNIX/Linux&nbsp;</td>
 <td>
 <font size="2" color="#bc412b">
 <i class="fas fa-star"></i>
