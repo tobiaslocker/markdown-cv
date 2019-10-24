@@ -77,6 +77,12 @@ of life, tackling complexity of technology.
 **C++** *5 years professional experience*<br/>
 **Python** *5 years professional experience*<br/>
 **Go** *2 years professional experience*<br/>
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 
 <!-- ### Footer
 
