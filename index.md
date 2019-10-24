@@ -81,6 +81,12 @@ of life, tackling complexity of technology.
 ![Logo](/images/rust-144.png)
 ![Logo](/images/tux-h-144.png)
 ![Logo](/images/docker-144.png)
+![Logo](/images/cmake-144.png)
+![Logo](/images/git-144.png)
+![Logo](/images/gitlab-144.png)
+![Logo](/images/gopher-144.png)
+
+
 
 
 
