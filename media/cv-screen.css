@@ -175,14 +175,14 @@ a:hover {
 }
 
 #skilltable {
-	margin-top: 0em;
+	margin-top: 0.1em;
 	position: relative;
-	left: 25%;
+	left: 22%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
     page-break-inside: avoid;
     border-collapse: separate;
-    border-spacing: 20px 0;
+    border-spacing: 40px 0;
 }
 
 #skilltable a {
