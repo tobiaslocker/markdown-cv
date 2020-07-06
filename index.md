@@ -45,6 +45,10 @@ of life, tackling complexity of technology.
 
 ## Experience
 
+`Since 2019`
+**Software Developer / Quantitative Analyst**<br/>
+*PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.
+
 `2017-2019`
 **Software Engineer / Software Architect**<br/>
 *Device Insight GmbH*, *Product Development*, Munich, Germany.
