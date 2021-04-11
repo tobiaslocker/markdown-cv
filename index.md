@@ -17,9 +17,8 @@ Electrical Engineer, Software Developer and Software Architect.
 
 ## About me
 
-*Hello*, my name is Tobias and I write software in 
-[C++](https://isocpp.org/), [Python](https://www.python.org/), [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/).
-I am 40 years old and currently reside in Portugal. Enjoying simplicity
+*Hello*, my name is Tobias and I write software in various compiled and interpreted languages.
+I am 41 years old and currently reside in Frankfurt, Germany. Enjoying simplicity
 of life, tackling complexity of technology.
 
 
@@ -47,7 +46,8 @@ of life, tackling complexity of technology.
 
 `Since 2019`
 **Software Developer / Quantitative Analyst**<br/>
-*PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.
+*PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
+*Technologies:* Python, Pandas, Javascript, React, Docker, Linux, Flask, NGINX
 
 `2017-2019`
 **Software Engineer / Software Architect**<br/>
