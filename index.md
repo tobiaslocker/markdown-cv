@@ -47,7 +47,8 @@ of life, tackling complexity of technology.
 `Since 2019`
 **Software Developer / Quantitative Analyst**<br/>
 *PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
-*Technologies:* Python, Pandas, Javascript, React, Docker, Linux, Flask, NGINX
+Web Application for Technical Analysis
+*Technologies:* Python, Javascript, Docker, Linux
 
 `2017-2019`
 **Software Engineer / Software Architect**<br/>
