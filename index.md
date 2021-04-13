@@ -48,7 +48,9 @@ of life, tackling complexity of technology.
 **Software Architect / Software Developer / Quantitative Analyst**<br/>
 *PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
 Responsible for design and architecture of a scalable web application<br/>
-*Technologies:* Python, Javascript, Docker, Linux
+*Languages:* Python, Javascript, Bash<br/>
+*Libraries/Frameworks*: Pandas, Flask, React<br/>
+*Version Control*: Git<br/>
 
 `2017-2019`
 **Software Engineer / Software Architect**<br/>
