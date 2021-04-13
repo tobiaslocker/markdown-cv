@@ -47,23 +47,27 @@ of life, tackling complexity of technology.
 `Since 2019`
 **Software Architect / Software Developer / Quantitative Analyst**<br/>
 *PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
-Responsible for design and architecture of a scalable, modern web application for quantitative analysis
+Responsible for design, architecture, development and maintenance of a scalable, modern web application for quantitative analysis.
 
 `2017-2019`
 **Software Engineer / Software Architect**<br/>
-*Device Insight GmbH*, *Product Development*, Munich, Germany.
+*Device Insight GmbH*, *Product Development*, Munich, Germany.<br/>
+Responsible for maintaining and developing an IoT edge computing application.
 
 `2016-2017`
 **Senior Engineering Consultant**<br/>
 *Infineon Technologies AG for Alten Engineering GmbH*, Munich, Germany.
+Responsible for design, architecture, development and maintenance of a user interface for configuring microcontrollers.
 
 `2015-2016`
 **Engineering Consultant**<br/>
 *Infineon Technologies AG for Alten Engineering GmbH*, Munich, Germany.
+Responsible for maintaining and developing an application for testing automotive semi conductors.
 
 `2014-2015`
 **Engineering Consultant**<br/>
 *BMW Group AG for Alten Engineering GmbH*, Munich, Germany.
+Responsible for design, architecture, development and maintenance of a user interface for analysis of measurement data. 
 
 `2011-2013`
 **Working Student**<br/>
