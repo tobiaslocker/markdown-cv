@@ -48,11 +48,11 @@ of life, tackling complexity of technology.
 **Software Architect / Software Developer / Quantitative Analyst**<br/>
 *PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
 Design, architecture, development and maintenance of a scalable, modern web application for quantitative analysis.<br/>
-• Backend application written in Python and Flask<br/>
-• Frontend application written in Javascript and React<br/>
-• A service for reading and processing financial data from various sources written in Python and Pandas<br/>
-• A service for calculations and analysis of financial data written in Python, Pandas and Numpy<br/>
-• Deployment and testing with Docker, docker-compose and K8s<br/>
+• Backend (Python, Flask)<br/>
+• Frontend (Javascript, React, Material-UI)<br/>
+• Service for reading and processing financial data from various sources (Python, Pandas)<br/>
+• Service for technical analysis of financial data (Python, Pandas, Numpy)<br/>
+• Deployment (Docker, K8s)<br/>
 
 
 `2017-2019`
