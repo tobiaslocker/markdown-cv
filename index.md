@@ -48,7 +48,7 @@ of life, tackling complexity of technology.
 **Software Architect / Software Developer / Quantitative Analyst**<br/>
 *PEH Wertpapier AG*, *Asset Manangement*, Frankfurt, Germany.<br/>
 <br/>
-Design, architecture, development and maintenance of a scalable, modern web application for quantitative analysis.<br/>
+*Design, architecture, development and maintenance of a scalable, modern web application for quantitative analysis*<br/>
 <br/>
 • Backend (Python, Flask)<br/>
 • Frontend (Javascript, React, Material-UI)<br/>
