@@ -50,6 +50,7 @@ of life, tackling complexity of technology.
 <br/>
 *Design, architecture, development and maintenance of a scalable, modern web application for quantitative analysis*<br/>
 <br/>
+*Responsibilities:*<br/>
 • Backend (Python, Flask)<br/>
 • Frontend (Javascript, React, Material-UI)<br/>
 • Service for reading and processing financial data from various sources (Python, Pandas)<br/>
