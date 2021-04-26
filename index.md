@@ -78,8 +78,6 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
-### Languages
-
 <table id="skilltable">
 <tbody>
 <tr>
