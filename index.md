@@ -78,10 +78,12 @@ of life, tackling complexity of technology.
 
 ## Technology Stack
 
+### Languages
+
 <table id="skilltable">
 <tbody>
 <tr>
-<td>C++</td>
+<td>C++ (98/11/17)</td>
 <td>
 <font size="2" color="#bc412b">
 <i class="fas fa-star"></i>
