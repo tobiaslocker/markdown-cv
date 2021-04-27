@@ -141,6 +141,18 @@ of life, tackling complexity of technology.
 </td>
 </tr>
 <tr>
+<td>JavaScript</td>
+<td>
+<font size="2" color="#bc412b">
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="fas fa-star"></i>
+<i class="far fa-star"></i>
+<i class="far fa-star"></i>
+</font>
+</td>
+</tr>
+<tr>
 <td>UNIX/Linux</td>
 <td>
 <font size="2" color="#bc412b">
